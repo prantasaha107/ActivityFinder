@@ -11,7 +11,7 @@ This is a web application that helps you find something to do when you're bored.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/prantasaha107/ActivityFinder.git
 Install dependencies:
 sh
 Copy code
